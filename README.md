@@ -15,3 +15,6 @@ Effective use of Font Awesome icons for improved user experience.
 Background image in the second column to enhance visual appeal.
 Custom styling to differentiate labels in the form.
 Code optimized for readability and ease of customization.
+
+# Output
+![from](https://github.com/httpsadnankhan/contact-form/assets/120323286/bbdc789d-fc64-4b55-bd70-be4eae050ed9)
